@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WC Show Method in Orders List for PagSeguro
-Plugin URI: http://www.softbisti.com.br/plugins/wc-show-method-in-orders-list-for-pagseguro
+Plugin URI: https://github.com/dimdavid/wc-show-method-in-orders-list-for-pagseguro
 Description: Este plugin atualiza o método de pagamento junto com a descrição do gateway utilizado na listagem de pedidos após a confirmação do pagamento.
 Version: 1.0
 Author: Davidson Marques
-Author URI: http://www.softbis.com.br/
+Author URI: http://dimdavid.wordpress.com/
 License: GPLv2 or later
 */
 
